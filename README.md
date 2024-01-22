@@ -4,28 +4,25 @@ Edoc is a Simple web project that made for e-channeling Using PHP,HTML & CSS. Th
 
 Features
 
-Admin
-Admin can add doctors,edit doctors, delete doctors
-Schedule new doctors sessions,remove sessions
-View patients details
-View booking of patients
+Admin:
+1)- Admin can add doctors,edit doctors, delete doctors
+2)- Schedule new doctors sessions,remove sessions
+3)- View patients details
+4)- View booking of patients
 
+Doctors:
+1)- View their Appointment
+2)- View their scheduled sessions
+3)- View details of patients
+4)- Delete account
+5)- Eedit account settings
 
-Doctors
-View their Appointment
-View their scheduled sessions
-View details of patients
-Delete account
-Eedit account settings
-
-
-Patiens(Clients)
-Make appointment online
-Create accounts themslves
-View their old booking
-Delete account
-Edit account settings
-
+Patiens(Clients):
+1)- Make appointment online
+2)- Create accounts themslves
+3)- View their old booking
+4)- Delete account
+5)- Edit account settings
 
 GET STARTED
 Demo video: https://youtu.be/mAWHYAHmit4
